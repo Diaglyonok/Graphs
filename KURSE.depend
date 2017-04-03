@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1482705673 source:c:\users\Юыху\desktop\projects\kurse\main.cpp
+	<iostream>
+	<list>
+	<queue>
+	<time.h>
+	<random>
+	<windows.h>
+
